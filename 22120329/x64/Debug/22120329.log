@@ -1,0 +1,80 @@
+﻿  Game.cpp
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(7,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(12,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(73,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(77,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(83,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(86,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(126,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(195,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(203,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(204,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(209,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(209,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(209,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(209,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(217,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(220,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(272,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(276,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(296,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(301,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(328,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(334,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(353,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(372,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(377,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(385,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(390,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(399,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(408,24): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(417,43): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(424,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(431,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(432,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(435,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(438,44): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(438,44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(438,50): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(438,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(438,56): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(438,56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(438,66): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(438,66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(439,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(452,55): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(452,55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(452,91): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(452,91): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(456,44): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(456,44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(456,50): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(456,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(456,56): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(456,56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(456,66): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(456,66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(457,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(464,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(466,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(478,42): warning C4244: '=': conversion from 'double' to 'time_t', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(489,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(496,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(501,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(508,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(535,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(539,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(549,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(555,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(566,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(574,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(578,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\Game.cpp(597,65): warning C4305: 'argument': truncation from 'double' to 'float'
+  LogicGame.cpp
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\LogicGame.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\22120329\LogicGame.cpp(38,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Generating Code...
+  22120329.vcxproj -> C:\Users\ngoct\OneDrive\Tài liệu\NMLT\22120329\x64\Debug\22120329.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
